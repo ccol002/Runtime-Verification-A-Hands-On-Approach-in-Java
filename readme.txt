@@ -12,3 +12,7 @@ If you have any questions or comments please don't hesitate to get in touch with
 Christian Colombo and Gordon J. Pace
 christian.colombo@um.edu.mt
 gordon.pace@um.edu.mt
+
+PS: Prof. Owolabi Legunsen from Cornell University has kindly let us know that he is "mavenising" the code available in this repository. 
+If this sounds convenient to you, the latest code is available at: https://github.com/owolabileg/fits-in-maven
+
